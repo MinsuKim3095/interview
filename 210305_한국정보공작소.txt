@@ -1,0 +1,5 @@
+yolov3와 v4d의 차이
+수학적인 공부
+CNN에 대한 설명
+Object Detection과 Segmentation의 차이
+실제 단계에서 어떻게 구현할 것인가?
